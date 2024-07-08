@@ -1,0 +1,52 @@
+.cartBox{
+    display: grid;
+    justify-content: center;
+    flex-direction: row;
+    margin: 80px;
+    word-wrap: break-word;
+    padding: 20px;
+    background-color: #ffb72679;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+.imageAndDescription{
+    display: flex;
+    grid-template-columns: 3fr 1fr;
+    gap: 15px;
+    align-items: center;
+}
+.toggleCartButton{
+    padding: 10px;
+    margin: 20px;
+    border: none;
+    border-radius: 8px;
+}
+.toggleCartButton:hover{
+    cursor: pointer;
+    background-color: #ffbd3a;
+}
+.deleteCart{
+    font-size: 24px;
+    border: none;
+    border-radius: 8px;
+    margin: 10px;
+}
+.deleteCart:hover{
+    cursor: pointer;
+    background-color: #ff723a;
+    color: #fff;
+}
+.buyBTN{
+    font-size: 25px;
+    border: none;
+    border-radius: 8px;
+    margin: 15px;
+    margin-left: 50px;
+    background-color: #f8c45ca1;
+    padding: 10px;
+    height: 50px;
+}
+.buyBTN:hover{
+    cursor: pointer;
+    background-color: #ffb726ef;
+}

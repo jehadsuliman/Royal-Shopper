@@ -1,0 +1,26 @@
+.inputLogin{
+    display: grid;
+    justify-content: center;
+    padding: 15px;
+    margin: 25px;
+    gap: 15px;
+    text-align: left;
+    color: black;
+    background-color: #ffb72679;
+    font-size: 25px;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+
+.buttonLogin{
+    font-size: 30px;
+    border: none;
+    border-radius: 8px;
+    background-color: #ffe3ab;
+}
+.buttonLogin:hover{
+    cursor: pointer;
+    background-color: #ffbd3a;
+    color: #000;
+}

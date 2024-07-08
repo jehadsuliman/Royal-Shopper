@@ -1,0 +1,58 @@
+*{
+  font-family:"Open Sans", sans-serif;
+}
+.App {
+  text-align: center;
+  font-size: 24px;
+  word-wrap: break-word;
+}
+.imageLogo{
+  display: flex;
+  justify-content: left;
+  height: 100px;
+  width: 100px;
+}
+.imageLogoBar{
+  display: flex;
+  gap: 10px;
+}
+.logoText{
+  font-size: 30px;
+  font-family: "Playwrite US Trad", cursive;
+  font-weight: bold;
+  color: #ECB84A;
+}
+ .registerLink, .cartLink, .loginLink, .productLink{
+  margin: 15px;
+  flex-wrap: wrap;
+  color: #f3c45e;
+  font-size: 25px;
+  display: inline-block;
+}
+.registerLink:hover, .cartLink:hover, .loginLink:hover, .productLink:hover{
+  color: #ffae00;
+}
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 60px;  
+}
+.wellcomeMessage{
+  margin: 40px;
+  padding: 20x;
+  background-color: #ffb72679;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.6);
+}
+h4, h5{
+  margin: 40px;
+}
+.wellcomeh4{
+  padding-top: 20px;
+  margin-bottom: 70px;
+}
+.wellcomeH5{
+  padding-bottom: 20px;
+  margin-top: 70px;
+}
