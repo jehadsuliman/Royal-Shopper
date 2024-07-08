@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://www.meraki-academy.org" target="_blank" rel="noopener noreferrer">
- <img width="400px" height="400px" wi src="../MERAKI_Academy_Project_4/frontend/public/logo.png" alt="Project logo">
+<img width="400px" height="400px" wi src="./frontend/public/logo.png" alt="Project logo">
  </a>
 </p>
 
@@ -71,7 +71,7 @@ npm run start
 
 Now app ready to use
 
-<img src="../MERAKI_Academy_Project_4/frontend/public/app.png">
+<img src="./frontend/public/app.png">
 
 ## 🎈 Usage <a id="usage" name="usage"></a>
 
@@ -82,44 +82,44 @@ Here are the steps to use the application:
 
 - Click on the **Create Account** if you are a new user and by entering the required data such as username, email, and password.
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/register.png" />
+    <img src="./frontend/public/register.png" />
     <hr />
     <br />
     
 - Log in with your credentials if you already have an account.
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/Login.png" />
+    <img src="./frontend/public/Login.png" />
     <hr />
     <br />
 
 - You can click on the **Home** tab provided in the navigation bar to view the home section
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/allItems.png" />    
+    <img src="./frontend/public/allItems.png" />    
     <hr />
     <br />
 
 - If you are a user, you can create new products by filling out the required data entry form.
 First, click on the **Create New Item** button. The data entry form will appear for you. Upload the product images, write the title, write the description, specify the price, and click on the **Create Product** button.
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/CreateProduct.png" />
+    <img src="./frontend/public/CreateProduct.png" />
     <hr />
     <br />
 
 - You can also add a **comment** on any product or **like**, but you must create an account
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/comment.png" />
+    <img src="./frontend/public/comment.png" />
     <hr />
     <br />
 - You can click on the **Add to cart** button to add this product to your cart but you have to be one of our users, and you can **Delete** and **Update** your product, so you should create an account
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/addToCart.png" />
+    <img src="./frontend/public/addToCart.png" />
     <hr />
     <br />
 - Click **My Cart** in the corner of your browser to review the products you have added.
 
     Then click on **Show Cart** to show the products that have been added.
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/cart.png" />
+    <img src="./frontend/public/cart.png" />
     <hr />
     <br />
 
@@ -128,7 +128,7 @@ First, click on the **Create New Item** button. The data entry form will appear 
 
     Be sure to review the order before confirming your purchase.
 
-    <img src="../MERAKI_Academy_Project_4/frontend/public/buy.png" />
+    <img src="./frontend/public/buy.png" />
     <br />
     <br />
 
